@@ -1,0 +1,19 @@
+#email-man-settings-form .select2 {
+    min-width: 18rem;
+}
+
+#TB_ajaxContent {
+    width: 620px !important;
+}
+
+#TB_ajaxContent>.content {
+    white-space: pre-line;
+}
+
+#TB_ajaxContent>.content>#wrapper {
+    margin-top: -130px !important;
+}
+
+#TB_window {
+    width: 650px !important;
+}
